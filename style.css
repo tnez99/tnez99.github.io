@@ -1,0 +1,15 @@
+h1 {
+    color: black;
+}
+
+body{
+    background-color: #a2b1bb;
+}
+
+h2{
+    color: blueviolet;
+    height: 50px;
+    width: 50%;
+    position: absolute;
+    
+}
